@@ -1,0 +1,10 @@
+export const WHITE = '#FFFFFF';
+export const BLACK = '#000000';
+export const PRIMARY = '#EAEAEA';
+export const HEADER = '#DEDEDE';
+export const BACKGROUND = '#F4F4F4';
+export const MAIN_TEXT = '#4E4E4E';
+export const INPUT_BACKGROUND = '#F0F0F0';
+export const GREEN = '#7AC692';
+export const SECONDARY = '#B4B4B4';
+export const PLACEHOLDER = '#9D9D9D';
